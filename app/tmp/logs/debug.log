@@ -1,0 +1,8 @@
+2017-10-17 22:09:23 Debug: Notice (1024): Please change the value of 'Security.salt' in app/config/core.php to a salt value specific to your application in [C:\xampp\htdocs\prodonto\cake\libs\debugger.php, line 697]
+2017-10-17 22:09:24 Debug: Notice (1024): Please change the value of 'Security.cipherSeed' in app/config/core.php to a numeric (digits only) seed value specific to your application in [C:\xampp\htdocs\prodonto\cake\libs\debugger.php, line 701]
+2017-10-17 22:10:09 Debug: Notice (1024): Please change the value of 'Security.salt' in app/config/core.php to a salt value specific to your application in [C:\xampp\htdocs\prodonto\cake\libs\debugger.php, line 697]
+2017-10-17 22:10:09 Debug: Notice (1024): Please change the value of 'Security.cipherSeed' in app/config/core.php to a numeric (digits only) seed value specific to your application in [C:\xampp\htdocs\prodonto\cake\libs\debugger.php, line 701]
+2017-10-17 22:10:12 Debug: Notice (1024): Please change the value of 'Security.salt' in app/config/core.php to a salt value specific to your application in [C:\xampp\htdocs\prodonto\cake\libs\debugger.php, line 697]
+2017-10-17 22:10:12 Debug: Notice (1024): Please change the value of 'Security.cipherSeed' in app/config/core.php to a numeric (digits only) seed value specific to your application in [C:\xampp\htdocs\prodonto\cake\libs\debugger.php, line 701]
+2017-10-18 22:36:08 Debug: Notice (8): Undefined index: login in [C:\xampp\htdocs\prodonto\app\controllers\api_prodonto_controller.php, line 21]
+2017-10-18 22:36:25 Debug: Notice (8): Undefined index: login in [C:\xampp\htdocs\prodonto\app\controllers\api_prodonto_controller.php, line 21]
